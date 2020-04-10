@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\HM-09-04-2020_SUM_2\\HomeWork.csproj": {}
+    "C:\\HM-09-04-2020_SUM_2\\HomeWork.csproj": {}
   },
   "projects": {
-    "c:\\HM-09-04-2020_SUM_2\\HomeWork.csproj": {
+    "C:\\HM-09-04-2020_SUM_2\\HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\HM-09-04-2020_SUM_2\\HomeWork.csproj",
+        "projectUniqueName": "C:\\HM-09-04-2020_SUM_2\\HomeWork.csproj",
         "projectName": "HomeWork",
-        "projectPath": "c:\\HM-09-04-2020_SUM_2\\HomeWork.csproj",
+        "projectPath": "C:\\HM-09-04-2020_SUM_2\\HomeWork.csproj",
         "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
-        "outputPath": "c:\\HM-09-04-2020_SUM_2\\obj\\",
+        "outputPath": "C:\\HM-09-04-2020_SUM_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
